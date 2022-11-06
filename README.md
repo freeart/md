@@ -5,9 +5,4 @@
 ### Libraries
 
 - Media:
-  <!--
-  type: library
-  platform: [android]
-  tags: [video,kotlin,brightcove,player]
-  -->
-  - [brightcove](https://github.com/newscorp-ghfb/gts-brightcove-android?nofollow=true)
+  - <a data-type="library" data-platform="android" data-tags="video,kotlin,brightcove,player" href="https://github.com/newscorp-ghfb/gts-brightcove-android?nofollow=true">brightcove</a>
